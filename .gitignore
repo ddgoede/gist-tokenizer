@@ -1,0 +1,3 @@
+# Local-only: build tooling (internal paths/checkpoint names) and the private launch checklist
+tools/
+README.md

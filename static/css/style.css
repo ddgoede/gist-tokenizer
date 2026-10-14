@@ -391,8 +391,6 @@ p:last-child { margin-bottom: 0; }
   background: var(--surface); border: 1px solid var(--line);
   font-family: var(--font-mono); font-size: 13.5px; line-height: 1.6; color: var(--ink);
 }
-/* TODO: remove with the placeholder arXiv id it marks. */
-.todo { color: #ff1a1a; font-weight: 700; }
 .copy {
   position: absolute; top: 12px; right: 12px;
   font: inherit; font-size: 13px; font-weight: 600; line-height: 1;
